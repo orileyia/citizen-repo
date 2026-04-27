@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "e8fdf08cb6216913",
+    "type": "split",
+    "children": [
+      {
+        "id": "558a4470e667e7e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "808d773188bd6019",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Графа.canvas",
+                "viewState": {
+                  "x": -309.2076572099818,
+                  "y": -201.13843813998776,
+                  "zoom": -0.7268423738008472
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Графа"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0a022746a1c83c29",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae0dea55b63a8315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d7a3f3517258d38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa2ab0f9e1d21afa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3f03b1647c35e84a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6651ff2fef1f59c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce1f10f20f8fbcdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3523915b5cc0a4ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Графа.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Графа"
+            }
+          },
+          {
+            "id": "ecb5e148c5454dea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Графа.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Графа"
+            }
+          },
+          {
+            "id": "647f28254e8365dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dea1c76f62cd6f5a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b880c92b7796ed7f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Графа.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Графа"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "808d773188bd6019",
+  "lastOpenFiles": [
+    "Отказ от гражданства РК/Анкета-заявление - РК.md",
+    "Графа.canvas",
+    "Придобиване на гражданство БГ/Препис на акт за раждане - РБ.md",
+    "Придобиване на гражданство БГ/Свидетелство за съдимост от РК - РБ.md",
+    "Придобиване на гражданство БГ/ЛКК - РБ.md",
+    "Придобиване на гражданство БГ/Декларации - РБ.md",
+    "Придобиване на гражданство БГ/Такса.md",
+    "Придобиване на гражданство БГ/Удостоверение за работа - РБ.md",
+    "Отказ от гражданства РК/Паспорт - РК.md",
+    "Придобиване на гражданство БГ/Фотоснимка - РБ.md",
+    "Отказ от гражданства РК/Заявление о выходе из гражданства РК.md",
+    "Заявление к РК.doc",
+    "Анкета-Заявление к РК.docx",
+    "~$luster_2026_1_12_ead647f28abdb59130ce8b5edb59eb3c_original.25832.docx",
+    "_gluster_2026_1_12_3caa07592b0fa083ed27c529b62d0406_original.24064.doc",
+    "_gluster_2026_1_12_ead647f28abdb59130ce8b5edb59eb3c_original.25832.docx",
+    "Отказ от гражданства РК/Автобиография - РК.md",
+    "Придобиване на гражданство БГ/Автобиография - РБ.md",
+    "Отказ от гражданства РК/Справка о наличии либо отсутствии судимости.md",
+    "Отказ от гражданства РК/Свидетельство о рождении.md",
+    "Отказ от гражданства РК/Фотографии.md",
+    "Отказ от гражданства РК/Что блять.md",
+    "Придобиване на гражданство БГ/Диплома - РБ.md",
+    "Придобиване на гражданство БГ/Документ за самоличност - РБ.md",
+    "Придобиване на гражданство БГ/Интервю.md",
+    "Придобиване на гражданство БГ/Освобождаване от гражданство.md",
+    "Отказ от гражданства РК/Гарантия предоставления болгарского гражданства.md",
+    "Untitled 1.canvas",
+    "Придобиване на гражданство БГ/Прокуратура - РБ.md",
+    "Придобиване на гражданство БГ/Молба - РБ.md",
+    "Придобиване на гражданство БГ",
+    "Отказ от гражданства РК/Личность семьи.md",
+    "Отказ от гражданства РК/Разрешения на выезд на постоянное проживание в Болгарию.md",
+    "Отказ от гражданства РК"
+  ]
+}
